@@ -1,0 +1,45 @@
+.secs{
+    background-color: #006400;
+    color: #fff;
+}
+
+.footertext{
+    color:#fff;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: grey !important;
+}
+
+.nav-link:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-brand{
+
+    color: #fff !important;
+}
+
+.active{
+        text-decoration: none;
+        color: #fff !important;
+}
+
+.phone{
+    color: #fff !important;
+}
+
+.call{
+    margin-left: auto;
+}
+
+.btn-style{
+    background-color: #006400;
+    color:#fff;
+}
+
+.btn-style:hover{
+    color:#fff;
+}
